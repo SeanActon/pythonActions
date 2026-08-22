@@ -2,7 +2,8 @@ name: run main.py
 
 on:
   schedule:
-    - cron: '0 19 * * *'  # 7 PM UTC every day
+    - cron: '5 15 * * *'  # 3:05 PM EST every day
+      timezone: 'America/New_York'
 
 jobs:
   build:
