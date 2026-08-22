@@ -10,6 +10,6 @@ from utils import  numberAdder, print_plays_data
 
 if __name__ == "__main__":
     print("This is the main entry point of the program.")
-    print_plays_data(False, "plays.xml")
+    print_plays_data(True, "plays.xml")
     print('------------------------------')
     print_plays_data(False, "newPlays.xml")

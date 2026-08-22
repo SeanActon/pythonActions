@@ -1,5 +1,6 @@
 import xml.etree.ElementTree as ET
 from pathlib import Path
+from datetime import datetime
 
 
 def print_plays_data(writeNew=False, filename="plays.xml"):
@@ -11,7 +12,8 @@ def print_plays_data(writeNew=False, filename="plays.xml"):
             if(play.find("item").attrib['name'] == "Magic: The Gathering"):
                 play.find("item").attrib['name']="Magic: I do not like this game"
         
-        file_path.write("newPlays.xml")
+        filename = datetime.now().strftime("plays_%Y-%m-%d_%H.xml")
+        file_path.write(filename)
     else:
         for play in root:
             print(play[0].attrib['name']) 

@@ -25,3 +25,14 @@ jobs:
       - name: Run main.py
         run: |
           python main.py
+      - name: commit files
+        run: |
+          git config --global user.name "Github Action"
+          git config --global user.email "action@github.com"
+          git add -A
+          git diff-index --quietHEAD || (git commit -a -m "updated plays" --allow-empty)
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
