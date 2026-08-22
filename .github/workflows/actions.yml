@@ -1,9 +1,8 @@
 name: run main.py
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '45 14 * * *'  # 2:45 PM UTC every day
+    - cron: '0 19 * * *'  # 7 PM UTC every day
 
 jobs:
   build:
