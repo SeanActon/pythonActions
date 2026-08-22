@@ -1,0 +1,1888 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plays username="mrbiofan12" userid="1489443" total="1305" page="1"
+	termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+	<play id="117661271" date="2026-08-17" quantity="1" length="83" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Dungeon Twister" objecttype="thing" objectid="12995">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="5" new="1" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="4" new="1" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="117415173" date="2026-08-11" quantity="1" length="60" incomplete="0" nowinstats="0"
+		location="Pats House">
+		<item name="Black Friday" objecttype="thing" objectid="388838">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="B." startposition="" color="" score="973" new="1"
+				rating="0" win="0" />
+			<player username="Disgruntled" userid="326000" name="P." startposition="" color=""
+				score="1171" new="1" rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="1830" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="1579" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="117373732" date="2026-08-10" quantity="1" length="64" incomplete="0" nowinstats="0"
+		location="Pats House">
+		<item name="Space Base" objecttype="thing" objectid="242302">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="B." startposition="" color="" score="3" new="1"
+				rating="0" win="0" />
+			<player username="" userid="0" name="M." startposition="" color="" score="0" new="0"
+				rating="0" win="0" />
+			<player username="Disgruntled" userid="326000" name="P." startposition="" color=""
+				score="41" new="0" rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="31" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="46" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="117368496" date="2026-08-10" quantity="1" length="111" incomplete="0" nowinstats="0"
+		location="Pats House">
+		<item name="Western Legends" objecttype="thing" objectid="232405">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="5" new="1"
+				rating="0" win="0" />
+			<player username="" userid="0" name="B." startposition="" color="" score="16" new="1"
+				rating="0" win="0" />
+			<player username="Disgruntled" userid="326000" name="P." startposition="" color=""
+				score="8" new="1" rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="20" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="18" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="117333026" date="2026-08-09" quantity="1" length="20" incomplete="0" nowinstats="0"
+		location="Pats House">
+		<item name="Bohnanza: 25th Anniversary Edition" objecttype="thing" objectid="351605">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgamecompilation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="B." startposition="" color="" score="9" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="B." startposition="" color="" score="7" new="1"
+				rating="0" win="0" />
+			<player username="" userid="0" name="M." startposition="" color="" score="11" new="0"
+				rating="0" win="0" />
+			<player username="Disgruntled" userid="326000" name="P." startposition="" color=""
+				score="11" new="0" rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="12" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="8" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="117318815" date="2026-08-09" quantity="1" length="3" incomplete="0" nowinstats="0"
+		location="Other">
+		<item name="Hot Streak" objecttype="thing" objectid="446497">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="57" new="0"
+				rating="0" win="1" />
+			<player username="" userid="0" name="A." startposition="" color="" score="34" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="B." startposition="" color="" score="31" new="1"
+				rating="0" win="0" />
+			<player username="" userid="0" name="B." startposition="" color="" score="45" new="1"
+				rating="0" win="0" />
+			<player username="" userid="0" name="M." startposition="" color="" score="1" new="1"
+				rating="0" win="0" />
+			<player username="Disgruntled" userid="326000" name="P." startposition="" color=""
+				score="37" new="0" rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="20" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="55" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="117335765" date="2026-08-09" quantity="1" length="21" incomplete="0" nowinstats="1"
+		location="Pats House">
+		<item name="Play Nine" objecttype="thing" objectid="22950">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="B." startposition="" color="" score="" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="B." startposition="" color="" score="" new="1"
+				rating="0" win="0" />
+			<player username="" userid="0" name="M." startposition="" color="" score="" new="1"
+				rating="0" win="0" />
+			<player username="Disgruntled" userid="326000" name="P." startposition="" color=""
+				score="" new="1" rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="117315587" date="2026-08-09" quantity="1" length="91" incomplete="0" nowinstats="0"
+		location="Other">
+		<item name="Power Grid" objecttype="thing" objectid="2651">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="B." startposition="" color="" score="15" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="M." startposition="" color="" score="14" new="1"
+				rating="0" win="0" />
+			<player username="Disgruntled" userid="326000" name="P." startposition="" color=""
+				score="13" new="0" rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="14" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="15.1" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="117152629" date="2026-08-05" quantity="1" length="65" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Everdell Duo" objecttype="thing" objectid="425005">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="64" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="71" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="117082222" date="2026-08-03" quantity="1" length="124" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Kemet" objecttype="thing" objectid="127023">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="B." startposition="" color="" score="5" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="C." startposition="" color="" score="7" new="0"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="7" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="8" new="0" rating="0" win="1" />
+			<player username="" userid="0" name="d." startposition="" color="" score="5" new="1"
+				rating="0" win="0" />
+		</players>
+	</play>
+	<play id="116781833" date="2026-07-27" quantity="1" length="156" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Sidereal Confluence" objecttype="thing" objectid="202426">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="B." startposition="" color="" score="45" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="J." startposition="" color="" score="46" new="0"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="34" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="27.17" new="0" rating="0" win="0" />
+			<player username="" userid="0" name="W." startposition="" color="" score="49" new="1"
+				rating="0" win="1" />
+			<player username="" userid="0" name="n." startposition="" color="" score="40.83" new="1"
+				rating="0" win="0" />
+		</players>
+	</play>
+	<play id="116740890" date="2026-07-26" quantity="1" length="143" incomplete="0" nowinstats="0"
+		location="Tabletop Simulator">
+		<item name="Battlestar Galactica: The Board Game" objecttype="thing" objectid="37111">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="Team 1" score=""
+				new="0" rating="0" win="0" />
+			<player username="" userid="0" name="A." startposition="" color="Team 1" score=""
+				new="0" rating="0" win="0" />
+			<player username="" userid="0" name="G." startposition="" color="Team 1" score=""
+				new="0" rating="0" win="0" />
+			<player username="adracko" userid="1185650" name="K." startposition="" color="Team 2"
+				score="" new="0" rating="0" win="1" />
+			<player username="" userid="0" name="M." startposition="" color="Team 2" score=""
+				new="1" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition=""
+				color="Team 1" score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="116598514" date="2026-07-23" quantity="1" length="69" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Arkham Horror: The Card Game" objecttype="thing" objectid="205637">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition=""
+				color="stella clark" score="" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition=""
+				color="wilson richards" score="" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="116492284" date="2026-07-20" quantity="1" length="100" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Arkham Horror: The Card Game" objecttype="thing" objectid="205637">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition=""
+				color="stella clark" score="" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition=""
+				color="wilson richards" score="" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="116383116" date="2026-07-18" quantity="1" length="324" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="1846: The Race for the Midwest" objecttype="thing" objectid="17405">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="8879" new="1"
+				rating="0" win="1" />
+			<player username="" userid="0" name="M." startposition="" color="" score="4908" new="1"
+				rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="6688" new="1" rating="0" win="0" />
+			<player username="" userid="0" name="T." startposition="" color="" score="7478" new="1"
+				rating="0" win="0" />
+		</players>
+	</play>
+	<play id="116309305" date="2026-07-16" quantity="1" length="0" incomplete="0" nowinstats="0"
+		location="Anthonys House">
+		<item name="Captain Flip" objecttype="thing" objectid="393325">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="31.5" new="0"
+				rating="0" win="1" />
+			<player username="" userid="0" name="C." startposition="" color="" score="31" new="1"
+				rating="0" win="0" />
+			<player username="" userid="0" name="J." startposition="" color="" score="30" new="0"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="23" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="0" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="116310429" date="2026-07-16" quantity="1" length="38" incomplete="0" nowinstats="0"
+		location="Anthonys House">
+		<item name="Castle Combo" objecttype="thing" objectid="416851">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="66" new="1"
+				rating="0" win="0" />
+			<player username="" userid="0" name="C." startposition="" color="" score="77" new="1"
+				rating="0" win="0" />
+			<player username="" userid="0" name="J." startposition="" color="" score="78" new="1"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="88" new="1" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="56" new="1" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="116308917" date="2026-07-16" quantity="1" length="48" incomplete="0" nowinstats="0"
+		location="Anthonys House">
+		<item name="Up or Down?" objecttype="thing" objectid="428058">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="45" new="1"
+				rating="0" win="0" />
+			<player username="" userid="0" name="C." startposition="" color="" score="49" new="1"
+				rating="0" win="1" />
+			<player username="" userid="0" name="J." startposition="" color="" score="49" new="1"
+				rating="0" win="1" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="38" new="1" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="43" new="1" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="115685813" date="2026-06-29" quantity="1" length="187" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Container" objecttype="thing" objectid="453740">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="J." startposition="" color="" score="" new="1"
+				rating="0" win="1" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="1" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="1" rating="0" win="0" />
+			<player username="" userid="0" name="T." startposition="" color="" score="" new="1"
+				rating="0" win="0" />
+		</players>
+	</play>
+	<play id="115582859" date="2026-06-27" quantity="1" length="0" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Splendor Duel" objecttype="thing" objectid="364073">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="15" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="13" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="115581263" date="2026-06-27" quantity="1" length="33" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Splendor Duel" objecttype="thing" objectid="364073">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="115508239" date="2026-06-25" quantity="1" length="60" incomplete="0" nowinstats="0"
+		location="Cliffs House">
+		<item name="Cities" objecttype="thing" objectid="402676">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="C." startposition="" color="" score="83" new="1"
+				rating="0" win="1" />
+			<player username="" userid="0" name="J." startposition="" color="" score="62" new="1"
+				rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="63" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="115439424" date="2026-06-23" quantity="1" length="28" incomplete="0" nowinstats="0"
+		location="Other">
+		<item name="Splendor" objecttype="thing" objectid="148228">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="A." startposition="" color="" score="" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="A." startposition="" color="" score="" new="0"
+				rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="115421758" date="2026-06-22" quantity="1" length="69" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Black Friday" objecttype="thing" objectid="388838">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="1111" new="1"
+				rating="0" win="0" />
+			<player username="" userid="0" name="A." startposition="" color="" score="950" new="0"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="1399" new="1" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="1477" new="1" rating="0" win="0" />
+			<player username="" userid="0" name="T." startposition="" color="" score="1580" new="1"
+				rating="0" win="1" />
+		</players>
+	</play>
+	<play id="115422741" date="2026-06-22" quantity="1" length="39" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Take 5" objecttype="thing" objectid="432">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="25" new="1"
+				rating="0" win="0" />
+			<player username="" userid="0" name="E." startposition="" color="" score="7" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="J." startposition="" color="" score="17" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="P." startposition="" color="" score="49" new="1"
+				rating="0" win="1" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="-2" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="48" new="0" rating="0" win="0" />
+			<player username="" userid="0" name="T." startposition="" color="" score="-10" new="1"
+				rating="0" win="0" />
+		</players>
+	</play>
+	<play id="115291629" date="2026-06-19" quantity="1" length="0" incomplete="0" nowinstats="0"
+		location="Other">
+		<item name="The Resistance: Avalon" objecttype="thing" objectid="128882">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="L." startposition="" color="" score="" new="1"
+				rating="0" win="1" />
+			<player username="" userid="0" name="M." startposition="" color="" score="" new="1"
+				rating="0" win="1" />
+			<player username="" userid="0" name="M." startposition="" color="" score="" new="1"
+				rating="0" win="1" />
+			<player username="" userid="0" name="O." startposition="" color="" score="" new="1"
+				rating="0" win="1" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="1" rating="0" win="1" />
+			<player username="" userid="0" name="S." startposition="" color="" score="" new="1"
+				rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+			<player username="" userid="0" name="Z." startposition="" color="" score="" new="1"
+				rating="0" win="1" />
+		</players>
+	</play>
+	<play id="115256265" date="2026-06-18" quantity="1" length="0" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Formaggio" objecttype="thing" objectid="430533">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="C." startposition="" color="" score="55" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="J." startposition="" color="" score="61" new="0"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="73" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="56" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="115255531" date="2026-06-18" quantity="1" length="59" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Formaggio" objecttype="thing" objectid="430533">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="C." startposition="" color="" score="53" new="1"
+				rating="0" win="0" />
+			<player username="" userid="0" name="J." startposition="" color="" score="40" new="1"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="55" new="1" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="50" new="1" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="114988563" date="2026-06-10" quantity="1" length="64" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Cosmic Encounter: 42nd Anniversary Edition" objecttype="thing" objectid="313010">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgamecompilation" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="M." startposition="" color="" score="" new="0"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+			<player username="" userid="0" name="S." startposition="" color="" score="" new="0"
+				rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+			<player username="" userid="0" name="Z." startposition="" color="" score="" new="0"
+				rating="0" win="0" />
+		</players>
+	</play>
+	<play id="114985165" date="2026-06-10" quantity="1" length="0" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Magical Athlete" objecttype="thing" objectid="454103">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="M." startposition="" color="" score="13" new="1"
+				rating="0" win="1" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="4" new="0" rating="0" win="0" />
+			<player username="" userid="0" name="S." startposition="" color="" score="9" new="1"
+				rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="4" new="0" rating="0" win="0" />
+			<player username="" userid="0" name="Z." startposition="" color="" score="8" new="0"
+				rating="0" win="0" />
+		</players>
+	</play>
+	<play id="114395035" date="2026-05-25" quantity="1" length="15" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Cat in the Box: Deluxe Edition" objecttype="thing" objectid="345972">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="P." startposition="" color="" score="8" new="0"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="6" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="9" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="114394248" date="2026-05-25" quantity="1" length="24" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Cat in the Box: Deluxe Edition" objecttype="thing" objectid="345972">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="P." startposition="" color="" score="8" new="0"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="9" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="8" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="114396150" date="2026-05-25" quantity="1" length="11" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Lanterns: The Harvest Festival" objecttype="thing" objectid="160851">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="P." startposition="" color="" score="53" new="1"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="55" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="50" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="114275383" date="2026-05-23" quantity="1" length="134" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Dune" objecttype="thing" objectid="283355">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="Emperor" score=""
+				new="1" rating="0" win="1" />
+			<player username="" userid="0" name="C." startposition="" color="Bene gesserit" score=""
+				new="1" rating="0" win="1" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition=""
+				color="Harkonnen" score="" new="1" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition=""
+				color="Atreides" score="" new="0" rating="0" win="0" />
+			<player username="" userid="0" name="Z." startposition="" color="Fremen" score=""
+				new="1" rating="0" win="0" />
+			<player username="" userid="0" name="T." startposition="" color="Spacing guild" score=""
+				new="1" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="114268491" date="2026-05-23" quantity="1" length="0" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="ito" objecttype="thing" objectid="327778">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="C." startposition="" color="" score="" new="1"
+				rating="0" win="1" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+			<player username="" userid="0" name="Z." startposition="" color="" score="" new="1"
+				rating="0" win="1" />
+			<player username="" userid="0" name="T." startposition="" color="" score="" new="1"
+				rating="0" win="1" />
+		</players>
+	</play>
+	<play id="114267639" date="2026-05-23" quantity="1" length="0" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Magical Athlete" objecttype="thing" objectid="454103">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="C." startposition="" color="" score="7" new="1"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="5" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="13" new="0" rating="0" win="1" />
+			<player username="" userid="0" name="Z." startposition="" color="" score="7" new="1"
+				rating="0" win="0" />
+			<player username="" userid="0" name="T." startposition="" color="" score="4" new="1"
+				rating="0" win="0" />
+		</players>
+	</play>
+	<play id="114277162" date="2026-05-23" quantity="1" length="0" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Stationfall" objecttype="thing" objectid="316624">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="5" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="C." startposition="" color="" score="4" new="1"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="7" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="9" new="0" rating="0" win="1" />
+			<player username="" userid="0" name="Z." startposition="" color="" score="2" new="1"
+				rating="0" win="0" />
+		</players>
+	</play>
+	<play id="114177103" date="2026-05-20" quantity="1" length="36" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="7 Wonders Duel" objecttype="thing" objectid="173346">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="50" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="59" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="114122353" date="2026-05-18" quantity="1" length="64" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Ghost Stories" objecttype="thing" objectid="37046">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="B." startposition="" color="" score="" new="0"
+				rating="0" win="1" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+			<player username="" userid="0" name="W." startposition="" color="" score="" new="0"
+				rating="0" win="1" />
+		</players>
+	</play>
+	<play id="114120959" date="2026-05-18" quantity="1" length="57" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Ghost Stories" objecttype="thing" objectid="37046">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="B." startposition="" color="" score="" new="1"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="1" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="1" rating="0" win="0" />
+			<player username="" userid="0" name="W." startposition="" color="" score="" new="1"
+				rating="0" win="0" />
+		</players>
+	</play>
+	<play id="113846355" date="2026-05-11" quantity="1" length="13" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="The Gang" objecttype="thing" objectid="411567">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="" new="0"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+			<player username="" userid="0" name="n." startposition="" color="" score="" new="0"
+				rating="0" win="0" />
+		</players>
+	</play>
+	<play id="113846132" date="2026-05-11" quantity="1" length="18" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="The Gang" objecttype="thing" objectid="411567">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="" new="0"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="1" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="1" rating="0" win="0" />
+			<player username="" userid="0" name="n." startposition="" color="" score="" new="1"
+				rating="0" win="0" />
+		</players>
+	</play>
+	<play id="113845748" date="2026-05-11" quantity="1" length="37" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Magical Athlete" objecttype="thing" objectid="454103">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="3" new="0"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="10" new="1" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="6" new="0" rating="0" win="0" />
+			<player username="" userid="0" name="n." startposition="" color="" score="8" new="1"
+				rating="0" win="0" />
+		</players>
+	</play>
+	<play id="113845199" date="2026-05-11" quantity="1" length="45" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Sheriff of Nottingham" objecttype="thing" objectid="157969">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="126" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="A." startposition="" color="" score="146" new="0"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="162" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="122" new="0" rating="0" win="0" />
+			<player username="" userid="0" name="n." startposition="" color="" score="219" new="1"
+				rating="0" win="1" />
+		</players>
+	</play>
+	<play id="113584295" date="2026-05-04" quantity="1" length="87" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Tichu" objecttype="thing" objectid="215">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="roni" score="590"
+				new="0" rating="0" win="0" />
+			<player username="" userid="0" name="C." startposition="" color="sean" score="1210"
+				new="0" rating="0" win="1" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition=""
+				color="roni" score="590" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color="sean"
+				score="1210" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="113582553" date="2026-05-04" quantity="1" length="82" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Tichu" objecttype="thing" objectid="215">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="roni" score="770"
+				new="0" rating="0" win="0" />
+			<player username="" userid="0" name="C." startposition="" color="sean" score="1030"
+				new="0" rating="0" win="1" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition=""
+				color="roni" score="770" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color="sean"
+				score="1030" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="113108589" date="2026-04-22" quantity="1" length="92" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Terraforming Mars: Ares Expedition" objecttype="thing" objectid="328871">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats
+
+			Played with expansions:
+			- [thing=358739]Terraforming Mars: Ares Expedition – Discovery[/thing]</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="80" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="115" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="113053300" date="2026-04-20" quantity="1" length="170" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Millennium Blades" objecttype="thing" objectid="151347">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="95" new="0"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="106" new="1" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="90" new="0" rating="0" win="0" />
+			<player username="" userid="0" name="n." startposition="" color="" score="79" new="1"
+				rating="0" win="0" />
+		</players>
+	</play>
+	<play id="112911935" date="2026-04-17" quantity="1" length="25" incomplete="0" nowinstats="0"
+		location="Other">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="" new="0"
+				rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="112909271" date="2026-04-17" quantity="1" length="0" incomplete="0" nowinstats="0"
+		location="Other">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="" new="0"
+				rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="112909269" date="2026-04-17" quantity="1" length="0" incomplete="0" nowinstats="0"
+		location="Other">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="" new="0"
+				rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="112906306" date="2026-04-17" quantity="1" length="0" incomplete="0" nowinstats="0"
+		location="Other">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="" new="0"
+				rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="112790530" date="2026-04-13" quantity="1" length="49" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Fishing" objecttype="thing" objectid="419195">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="56" new="1" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="56" new="1" rating="0" win="0" />
+			<player username="" userid="0" name="W." startposition="" color="" score="61" new="1"
+				rating="0" win="0" />
+			<player username="" userid="0" name="d." startposition="" color="" score="73" new="1"
+				rating="0" win="1" />
+			<player username="" userid="0" name="T." startposition="" color="" score="64" new="1"
+				rating="0" win="0" />
+		</players>
+	</play>
+	<play id="112777153" date="2026-04-13" quantity="1" length="0" incomplete="0" nowinstats="1"
+		location="Other">
+		<item name="The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game"
+			objecttype="thing" objectid="429293">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="" new="0"
+				rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+			<player username="" userid="0" name="d." startposition="" color="" score="" new="0"
+				rating="0" win="1" />
+			<player username="" userid="0" name="M." startposition="" color="" score="" new="1"
+				rating="0" win="1" />
+		</players>
+	</play>
+	<play id="112789168" date="2026-04-13" quantity="1" length="35" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Seers Catalog" objecttype="thing" objectid="415981">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="-11" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="-6" new="0" rating="0" win="0" />
+			<player username="" userid="0" name="W." startposition="" color="" score="-16" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="d." startposition="" color="" score="13" new="0"
+				rating="0" win="1" />
+			<player username="" userid="0" name="T." startposition="" color="" score="-1" new="0"
+				rating="0" win="0" />
+		</players>
+	</play>
+	<play id="112788063" date="2026-04-13" quantity="1" length="37" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Seers Catalog" objecttype="thing" objectid="415981">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="5" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="-19" new="0" rating="0" win="0" />
+			<player username="" userid="0" name="W." startposition="" color="" score="-5" new="1"
+				rating="0" win="0" />
+			<player username="" userid="0" name="d." startposition="" color="" score="10" new="0"
+				rating="0" win="1" />
+			<player username="" userid="0" name="T." startposition="" color="" score="8" new="0"
+				rating="0" win="0" />
+		</players>
+	</play>
+	<play id="112789562" date="2026-04-13" quantity="1" length="10" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Vegetable Stock" objecttype="thing" objectid="328211">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="70" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="55" new="0" rating="0" win="0" />
+			<player username="" userid="0" name="W." startposition="" color="" score="59" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="d." startposition="" color="" score="69" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="T." startposition="" color="" score="66" new="0"
+				rating="0" win="0" />
+		</players>
+	</play>
+	<play id="112789400" date="2026-04-13" quantity="1" length="11" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Vegetable Stock" objecttype="thing" objectid="328211">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="58" new="1" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="59" new="1" rating="0" win="0" />
+			<player username="" userid="0" name="W." startposition="" color="" score="46" new="1"
+				rating="0" win="0" />
+			<player username="" userid="0" name="d." startposition="" color="" score="55" new="1"
+				rating="0" win="0" />
+			<player username="" userid="0" name="T." startposition="" color="" score="63" new="1"
+				rating="0" win="1" />
+		</players>
+	</play>
+	<play id="112741219" date="2026-04-12" quantity="1" length="0" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Arkham Horror: The Card Game" objecttype="thing" objectid="205637">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition=""
+				color="Isabella Barnes" score="" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition=""
+				color="Trish Scarborough v2" score="" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="112700829" date="2026-04-11" quantity="1" length="559" incomplete="0" nowinstats="0"
+		location="Other">
+		<item name="Twilight Imperium: Fourth Edition" objecttype="thing" objectid="233078">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>Played barony
+			#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="8" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="A." startposition="" color="" score="9" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="A." startposition="" color="" score="8" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="A." startposition="" color="" score="9" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="A." startposition="" color="" score="10" new="0"
+				rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="8" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="112654008" date="2026-04-10" quantity="1" length="63" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="112652293" date="2026-04-10" quantity="1" length="15" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="M." startposition="" color="" score="" new="0"
+				rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="112442474" date="2026-04-05" quantity="1" length="0" incomplete="0" nowinstats="1"
+		location="Acton House">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="1" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="4" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="112442470" date="2026-04-05" quantity="1" length="0" incomplete="0" nowinstats="1"
+		location="Acton House">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>Pai gow
+			#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="2" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="3" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="112319678" date="2026-04-02" quantity="1" length="40" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Arkham Horror: The Card Game" objecttype="thing" objectid="205637">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition=""
+				color="Isabella Barnes" score="" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition=""
+				color="Trish Scarborough v2" score="" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="112229571" date="2026-03-31" quantity="1" length="0" incomplete="0" nowinstats="1"
+		location="Other">
+		<item name="The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game"
+			objecttype="thing" objectid="429293">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="A." startposition="" color="" score="" new="0"
+				rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="112196678" date="2026-03-30" quantity="1" length="0" incomplete="0" nowinstats="1"
+		location="Other">
+		<item name="The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game"
+			objecttype="thing" objectid="429293">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="" new="0"
+				rating="0" win="1" />
+			<player username="" userid="0" name="A." startposition="" color="" score="" new="0"
+				rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="112213088" date="2026-03-30" quantity="1" length="32" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="112067526" date="2026-03-27" quantity="1" length="125" incomplete="0" nowinstats="0"
+		location="Game Theory Store">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="" new="0"
+				rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="112062669" date="2026-03-27" quantity="1" length="113" incomplete="0" nowinstats="0"
+		location="Game Theory Store">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="" new="0"
+				rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="112021502" date="2026-03-26" quantity="1" length="20" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Mini Crimes: Homicide in Cold Blood" objecttype="thing" objectid="364268">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="1" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="1" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="112025712" date="2026-03-26" quantity="1" length="74" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Risk Legacy" objecttype="thing" objectid="105134">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="C." startposition="" color="" score="" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="J." startposition="" color="" score="" new="0"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="111960301" date="2026-03-24" quantity="1" length="22" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="111959748" date="2026-03-24" quantity="1" length="3" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="111958669" date="2026-03-24" quantity="1" length="65" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Sleeping Gods" objecttype="thing" objectid="255984">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>Ending 6
+			#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="119" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="119" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="111926535" date="2026-03-23" quantity="1" length="42" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Hansa Teutonica: Big Box" objecttype="thing" objectid="286749">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgamecompilation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="J." startposition="" color="" score="37" new="1"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="33" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="62" new="0" rating="0" win="1" />
+			<player username="" userid="0" name="T." startposition="" color="" score="43" new="0"
+				rating="0" win="0" />
+		</players>
+	</play>
+	<play id="111734199" date="2026-03-19" quantity="1" length="88" incomplete="0" nowinstats="0"
+		location="Jeffs TownHouse">
+		<item name="Critter Kitchen" objecttype="thing" objectid="393429">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="C." startposition="" color="" score="44" new="1"
+				rating="0" win="1" />
+			<player username="" userid="0" name="J." startposition="" color="" score="41" new="1"
+				rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="39" new="1" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="111451478" date="2026-03-12" quantity="1" length="6" incomplete="0" nowinstats="1"
+		location="Acton House">
+		<item name="Sleeping Gods" objecttype="thing" objectid="255984">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="111362290" date="2026-03-09" quantity="1" length="36" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Bonsai" objecttype="thing" objectid="366994">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="55" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="B." startposition="" color="" score="56" new="1"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="42" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="83" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="111361228" date="2026-03-09" quantity="1" length="42" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Cascadia" objecttype="thing" objectid="295947">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="61" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="B." startposition="" color="" score="81" new="0"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="93" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="95" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="111242060" date="2026-03-07" quantity="1" length="0" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="111241541" date="2026-03-07" quantity="1" length="0" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="111222361" date="2026-03-06" quantity="1" length="49" incomplete="0" nowinstats="0"
+		location="Game Theory Store">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="" new="0"
+				rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="111220730" date="2026-03-06" quantity="1" length="59" incomplete="0" nowinstats="0"
+		location="Game Theory Store">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="" new="0"
+				rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="111218969" date="2026-03-06" quantity="1" length="0" incomplete="0" nowinstats="0"
+		location="Game Theory Store">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="" new="0"
+				rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="111168366" date="2026-03-05" quantity="1" length="0" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="111168354" date="2026-03-05" quantity="1" length="47" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="111148511" date="2026-03-04" quantity="1" length="12" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="111147895" date="2026-03-04" quantity="1" length="20" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="111104381" date="2026-03-03" quantity="1" length="1" incomplete="0" nowinstats="1"
+		location="Other">
+		<item name="The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game"
+			objecttype="thing" objectid="429293">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="J." startposition="" color="" score="" new="1"
+				rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+			<player username="" userid="0" name="d." startposition="" color="" score="" new="1"
+				rating="0" win="1" />
+		</players>
+	</play>
+	<play id="111091460" date="2026-03-02" quantity="1" length="107" incomplete="0" nowinstats="1"
+		location="Brewsters Monday">
+		<item name="The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game"
+			objecttype="thing" objectid="429293">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>S joined late
+			#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+			<player username="" userid="0" name="S." startposition="" color="" score="" new="1"
+				rating="0" win="1" />
+			<player username="" userid="0" name="W." startposition="" color="" score="" new="1"
+				rating="0" win="1" />
+		</players>
+	</play>
+	<play id="111089076" date="2026-03-02" quantity="1" length="68" incomplete="0" nowinstats="0"
+		location="Brewsters Monday">
+		<item name="Moon Colony Bloodbath" objecttype="thing" objectid="425549">
+			<subtypes>
+				<subtype value="boardgame" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="8" new="0"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="0" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="0" new="0" rating="0" win="0" />
+			<player username="" userid="0" name="W." startposition="" color="" score="7" new="1"
+				rating="0" win="0" />
+			<player username="" userid="0" name="d." startposition="" color="" score="9" new="1"
+				rating="0" win="1" />
+		</players>
+	</play>
+	<play id="111025079" date="2026-03-01" quantity="1" length="56" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Caverna: Cave vs Cave" objecttype="thing" objectid="220520">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="47" new="1" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="50" new="1" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="111031930" date="2026-03-01" quantity="1" length="8" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="111031417" date="2026-03-01" quantity="1" length="0" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="111026988" date="2026-03-01" quantity="1" length="0" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="110883739" date="2026-02-26" quantity="1" length="99" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Risk Legacy" objecttype="thing" objectid="105134">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameimplementation" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="" userid="0" name="A." startposition="" color="" score="" new="0"
+				rating="0" win="1" />
+			<player username="" userid="0" name="C." startposition="" color="" score="" new="0"
+				rating="0" win="0" />
+			<player username="" userid="0" name="J." startposition="" color="" score="" new="0"
+				rating="0" win="0" />
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="110822185" date="2026-02-24" quantity="1" length="18" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+		</players>
+	</play>
+	<play id="110821107" date="2026-02-24" quantity="1" length="20" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+		</players>
+	</play>
+	<play id="110820566" date="2026-02-24" quantity="1" length="32" incomplete="0" nowinstats="0"
+		location="Acton House">
+		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+			<subtypes>
+				<subtype value="boardgame" />
+				<subtype value="boardgameintegration" />
+			</subtypes>
+		</item>
+		<comments>#bgstats</comments>
+		<players>
+			<player username="Sad_indielyric" userid="3718202" name="R." startposition="" color=""
+				score="" new="0" rating="0" win="0" />
+			<player username="mrbiofan12" userid="1489443" name="Sean" startposition="" color=""
+				score="" new="0" rating="0" win="1" />
+		</players>
+	</play>
+</plays>
