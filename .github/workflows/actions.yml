@@ -2,8 +2,13 @@ name: run main.py
 
 on:
   schedule:
-    - cron: '5 15 * * *'  # 3:05 PM EST every day
-      timezone: 'America/New_York'
+    # 19:05 UTC = 3:05 PM EDT; 20:05 UTC = 3:05 PM EST
+    - cron: "12 15 * * *"
+      timezone: "America/New_York"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -11,28 +16,41 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Check New York time
+        id: schedule
+        run: |
+          if [ "$(TZ=America/New_York date +'%H')" = "15" ]; then
+            echo "run_main=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run_main=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Run main.py
+        if: steps.schedule.outputs.run_main == 'true'
+        run: python main.py
+
+      - name: Commit files
+        if: steps.schedule.outputs.run_main == 'true'
         run: |
-          python main.py
-      - name: commit files
-        run: |
-          git config --global user.name "Github Action"
-          git config --global user.email "action@github.com"
+          git config user.name "Github Action"
+          git config user.email "action@github.com"
           git add -A
-          git diff-index --quietHEAD || (git commit -a -m "updated plays" --allow-empty)
-      - name: push changes
+          git diff-index --quiet HEAD || git commit -m "updated plays"
+
+      - name: Push changes
+        if: steps.schedule.outputs.run_main == 'true'
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
