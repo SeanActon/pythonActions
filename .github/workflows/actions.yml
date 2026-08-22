@@ -3,7 +3,7 @@ name: run main.py
 on:
   schedule:
     # 19:05 UTC = 3:05 PM EDT; 20:05 UTC = 3:05 PM EST
-    - cron: "12 15 * * *"
+    - cron: "*/15 * * * *"
       timezone: "America/New_York"
   workflow_dispatch:
 
