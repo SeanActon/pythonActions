@@ -17,6 +17,7 @@ def print_plays_data(writeNew=False, filename="plays.xml"):
     else:
         for play in root:
             print(play[0].attrib['name']) 
+            print(play[1].text)
 
 
 
